@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'BRFirma';
+    src: url('BRFirma-Light.woff2') format('woff2'),
+        url('BRFirma-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BRFirma';
+    src: url('BRFirma-Bold.woff2') format('woff2'),
+        url('BRFirma-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BRFirma';
+    src: url('BRFirma-Medium.woff2') format('woff2'),
+        url('BRFirma-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BRFirma';
+    src: url('BRFirma-SemiBold.woff2') format('woff2'),
+        url('BRFirma-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BRFirma';
+    src: url('BRFirma-Regular.woff2') format('woff2'),
+        url('BRFirma-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
