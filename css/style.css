@@ -71,6 +71,7 @@ text-align: left;
 
 
 #footer {
+  min-height: 500px;
   background: #FFCC00;
   border-radius: 0px; 
 }
@@ -122,3 +123,27 @@ button{
   background-color: black;
 }
 
+
+/* @media screen and (min-width: 1024){
+  .header-text{ 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+   
+    letter-spacing: 1;
+    text-align: left;
+  
+  }
+
+} */
+
+@media screen and (max-width: 720px){
+  .header-text{ 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1;
+    text-align: left;
+  
+  }
+}
